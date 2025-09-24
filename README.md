@@ -13,7 +13,9 @@ Chainsaw Sound Effect by MasterHand125 –– https://www.youtube.com/watch?v=2M
 
 
 ____________________________________________________
-ALT ARCADE DOCUMENTATION: @ Self Update this 
+ALT ARCADE DOCUMENTATION:
+
+@ Self Update this 
 I documented this in my Figma file --> just need to move over
 
 PONG TUTORIALS:
@@ -22,7 +24,10 @@ ARDUINO TO UNITY TUTORIALS:
 
 ------------------------------------------------------
 GAME DEVELOPMENT "JUICE" DOCUMENTATION:
+
+
 Total Time spent: 4.5 hours working on the game. Another 30 minutes to an hour updating my documentation, adding proper credits, and putting together the demo video to show before/after. *** Note! I forgot to mention in my demo video, but the two sound effects were part of my Alt Arcade submission (background music and chainsaw sound).
+
 
 Finessing the Game: 
 Tutorials: Making Pong in Unity 2D by Erkberg the Greenening Videos #2, #3, and #4
@@ -32,6 +37,7 @@ https://www.youtube.com/watch?v=X1oTZuROTqw&list=PLEl7CIZGv53xhngxJdS_GAaSXpXcN-
 
 
 I continued with the tutorial series I followed initially. With these I was able to add a start button, title, and a win condition text. Other elements that were fine-tuned were making the ball faster each time it hit the paddle, adding animation to the score text, and creating instances in the game manager for future flexibility. 
+
 
 Customizing my UI:
 Using a quick google search, I figured out how to add different text files and adding some particle effects to the ball when it collides :D
