@@ -34,6 +34,6 @@ https://www.youtube.com/watch?v=X1oTZuROTqw&list=PLEl7CIZGv53xhngxJdS_GAaSXpXcN-
 I continued with the tutorial series I followed initially. With these I was able to add a start button, title, and a win condition text. Other elements that were fine-tuned were making the ball faster each time it hit the paddle, adding animation to the score text, and creating instances in the game manager for future flexibility. 
 
 Customizing my UI:
-Using a quick google search, I figured out how to add different text files and updates my paddle sprites!
+Using a quick google search, I figured out how to add different text files and adding some particle effects to the ball when it collides :D
 
 
