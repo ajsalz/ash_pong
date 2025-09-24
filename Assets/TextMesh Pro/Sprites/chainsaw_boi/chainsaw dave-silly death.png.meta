@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 64a844083ad284919a9ceef937def251
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7766697548822067340
+    second: chainsaw dave-silly death_0
+  - first:
+      213: -1289273751102797917
+    second: chainsaw dave-silly death_1
+  - first:
+      213: 7759441674231697640
+    second: chainsaw dave-silly death_2
+  - first:
+      213: 3280573593590111785
+    second: chainsaw dave-silly death_3
+  - first:
+      213: -2004078741296548792
+    second: chainsaw dave-silly death_4
+  - first:
+      213: -3010651172658352526
+    second: chainsaw dave-silly death_5
+  - first:
+      213: 4357111112927790195
+    second: chainsaw dave-silly death_6
+  - first:
+      213: 7863143594794576931
+    second: chainsaw dave-silly death_7
+  - first:
+      213: 4447803435879053026
+    second: chainsaw dave-silly death_8
+  - first:
+      213: -5875085751174794855
+    second: chainsaw dave-silly death_9
+  - first:
+      213: 6258355492507229544
+    second: chainsaw dave-silly death_10
+  - first:
+      213: 1999195510930960087
+    second: chainsaw dave-silly death_11
+  - first:
+      213: 241575970328265805
+    second: chainsaw dave-silly death_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4774094aab5273490800000000000000
+      internalID: -7766697548822067340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7484faa549b1ee0800000000000000
+      internalID: -1289273751102797917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e051f767131fab60800000000000000
+      internalID: 7759441674231697640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e17795d40f68d20800000000000000
+      internalID: 3280573593590111785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 15
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8447b1bb0051034e0800000000000000
+      internalID: -2004078741296548792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ee517a5b40836d0800000000000000
+      internalID: -3010651172658352526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 15
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c7f4e871977c30800000000000000
+      internalID: 4357111112927790195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 15
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c6e91507f7f1d60800000000000000
+      internalID: 7863143594794576931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 15
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e63552d8a5c9bd30800000000000000
+      internalID: 4447803435879053026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991744803a0877ea0800000000000000
+      internalID: -5875085751174794855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 15
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d120989252ad650800000000000000
+      internalID: 6258355492507229544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 15
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de689999b19ebb10800000000000000
+      internalID: 1999195510930960087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chainsaw dave-silly death_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 15
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44cfa9a0104a5300800000000000000
+      internalID: 241575970328265805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chainsaw dave-silly death_0: -7766697548822067340
+      chainsaw dave-silly death_1: -1289273751102797917
+      chainsaw dave-silly death_10: 6258355492507229544
+      chainsaw dave-silly death_11: 1999195510930960087
+      chainsaw dave-silly death_12: 241575970328265805
+      chainsaw dave-silly death_2: 7759441674231697640
+      chainsaw dave-silly death_3: 3280573593590111785
+      chainsaw dave-silly death_4: -2004078741296548792
+      chainsaw dave-silly death_5: -3010651172658352526
+      chainsaw dave-silly death_6: 4357111112927790195
+      chainsaw dave-silly death_7: 7863143594794576931
+      chainsaw dave-silly death_8: 4447803435879053026
+      chainsaw dave-silly death_9: -5875085751174794855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

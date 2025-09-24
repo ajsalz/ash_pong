@@ -64,6 +64,7 @@
     <Compile Include="Assets/Scripts/ScoreText.cs" />
     <Compile Include="Assets/Scripts/SoundEffectPlayer.cs" />
     <Compile Include="Assets/Scripts/Paddle.cs" />
+    <Compile Include="Assets/Scripts/GameUI.cs" />
     <Compile Include="Assets/Ardity/Scripts/Samples/SampleUserPolling_ReadWrite.cs" />
     <Compile Include="Assets/Ardity/Scripts/SerialController.cs" />
     <Compile Include="Assets/Ardity/Scripts/Samples/SampleMessageListener.cs" />

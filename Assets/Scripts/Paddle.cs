@@ -14,8 +14,16 @@ public class Paddle : MonoBehaviour
 
     private void Start()
     {
+        //startPosition = transform.position;
+        //GameManager.instance.Reset += ResetPosition;
         audioSource = GetComponent<AudioSource>();
     }
+
+    private void ResetPosition()
+    {
+        transform.position = startPosition;
+    }
+
     private void Update()
     {
         //Debug.Log("Serial Horizontal: " + SerialController.horizontal);
@@ -31,7 +39,8 @@ public class Paddle : MonoBehaviour
         switch(id)
         {
             case 1:
-                movement = MyMessageListener.horizontal;
+                //movement = MyMessageListener.horizontal;
+                movement = Input.GetAxis("MovePlayer1");
                 break;
             case 2:
                 movement = moveAI();

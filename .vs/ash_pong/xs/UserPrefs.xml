@@ -1,24 +1,33 @@
 ﻿<Properties StartupConfiguration="{695AEA64-4F33-1F07-7BB8-0CE6D8BD9B5E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MyMessageListener.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="Assets/Scripts/MyMessageListener.cs" Line="8" Column="32" />
-      <File FileName="Assets/Ardity/Scripts/SerialController.cs" Line="132" Column="20" />
-      <File FileName="Assets/Scripts/ball.cs" Line="50" Column="32" />
-      <File FileName="Assets/Ardity/Scripts/Threads/AbstractSerialThread.cs" Line="149" Column="1" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="29" Column="1" />
-      <File FileName="Assets/Scripts/SoundEffectPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Ardity/Scripts/SerialController.cs" />
+      <File FileName="Assets/Scripts/ball.cs" Line="28" Column="23" />
+      <File FileName="Assets/Ardity/Scripts/Threads/AbstractSerialThread.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/SoundEffectPlayer.cs" />
+      <File FileName="Assets/Scripts/Paddle.cs" />
+      <File FileName="Assets/Scripts/ScoreText.cs" />
+      <File FileName="Assets/Scripts/GameUI.cs" />
+      <File FileName="README.md" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ash_pong" expanded="True" selected="True" />
+          <Node name="ash_pong" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Art" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="767e9c7b-48d2-46b6-b519-7b6d5134d135" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fb112392-2b85-4eb2-9b1f-2b11bc99466c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
